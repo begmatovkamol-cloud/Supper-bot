@@ -65,6 +65,13 @@ Dashboard (liniya yakuni + «Назорат» auto-tekshiruv)
 4. Qolgan bo'sh smenalarni (19.06+) guruh kelgan sari to'ldirish.
 5. Sotuv (Экспорт/Внутр.рынок) — sotuv sheet'dан otchotга bog'lash.
 
+> **TEKSHIRILDI (2026-06-19):** Jonli Buxgalteriya otchoti (`1SZYNg...`) HAM,
+> Сменный производственный отчет (`1NxdsBAe...`) HAM «16.06 kunduz»dan keyin
+> BO'SH. Demak 16.06 tun / 17 / 18 / 19 smenalar uchun oil/grease faqat
+> **Telegram guruh + balans rasmi**dan olinadi (jadvalда yo'q).
+> Ishlab chiqarish (mahsulot/lot/kg/НМП) `DRAFT_bosh_smenalar.md` da tayyor;
+> qolgani — balans rasmlari kelishini kutadi.
+
 ## Telegram bot (nazorat boti)
 - @OilaNazoratBot, zaxiradан: `~/44_102_BACKUP_2026-06-19/` (`venv/bin/python main.py --telegram`). Faqat egasi (chat_id 38292334).
 - Kuzatadigan guruhlar: VEKTAN Production L1–L6 (-1003385027924), VEKTAN 2026 (-1004292982625, sotuv), Oxranala, Склад↔Производство.

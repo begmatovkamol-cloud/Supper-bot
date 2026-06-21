@@ -187,8 +187,16 @@
 
 ## Tezkor qoidalar (xulosalар)
 
-- **oil/grease beradi:** L2 PR (VTR-110/114/118, VTS-114), L3 Powder (VT-110P, VTS-110P).
-- **oil/grease bermaydi:** L1 FC, L4 Flake, Bleached, L5 Micronizer (oldin ajralgan).
+> ⚠️ **Muhim:** oil/grease ustuni otchotда **har bir qatorда bor**. Quyidagi
+> ✅/❌ — faqat **"odatda shunday"** degan eslatma, **qattiq qoida EMAS**.
+> Qaysi marka distillyat bersa, o'sha qatorga raqam yozaversa bo'ladi (maxsus
+> tugma/knopka kerak emas — katakcha allaqachon bor).
+
+- **oil/grease beradi (odatda):** L2 PR (VTR-110/114/118, VTS-114), L3 Powder (VT-110P, VTS-110P).
+- **oil/grease bermaydi (odatda):** L1 FC, L4 Flake, Bleached, L5 Micronizer (oldin ajralgan).
+- **ISTISNO — ZOROX-E 3326 / ZOROX liniyasi:** boshqa xomashyodan (НМП emas)
+  chiqadi → undan ham **oil/grease bo'lishi mumkin**. Chiqsa, oil/grease
+  katakchasiga yozing.
 - **НМП rangi:** odatda **oq**; FC2/Красный → **sariq**; Bleached → **qора + бентанит**.
 - **«Биг бег / кўк қоп / оқ қоп / қоғоз қоп»** — bu **qadoq turi (Тип мешка)**, mahsulot rangi emas.
 - **«VTMX учун»** belgisi — bu PR mahsulot Micronizer (L5) ga xomashyo bo'ladi.

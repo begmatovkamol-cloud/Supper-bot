@@ -25,6 +25,7 @@ egasi (Kamoliddin) telefon yoki kompyuterda Claude Code orqali ishni
 | `CONTEXT.md` | **Asosiy manba.** Loyiha maqsadi, data oqimi, barcha qoidalar (НМП rangi, lot kodi, massa-balans, distillyat), manbalar (Google Sheet ID'lari) va «KEYINGI QADAMLAR». Har doim shundan boshlang. |
 | `DRAFT_bosh_smenalar.md` | Bo'sh smenalar uchun tayyorlangan qoralama (DRAFT) — asl Excel hali o'zgartirilmagan; tekshirish uchun. |
 | `MARKALAR.md` | To'liq marka/nomenklatura ma'lumotnomasi (L1–L6 mahsulotlar, xomashyo, chiqindi turlari, oil/grease qaysi markada). |
+| `YOMKOSTLAR.md` | Tanklar (ёмкости) kuzatuvi — uroven ko'z bilan (smena nachalnigi yozadi); distillyat tank ostatkasi farqidan hisoblanadi. |
 
 Haqiqiy ish fayllari (Excel/Sheets) **bu repoda emas** — egasining Mac'ida
 (`~/Downloads/...`) va Google Drive'da (`vektan-otchot` papka + Google

@@ -34,7 +34,7 @@ Dashboard (liniya yakuni + «Назорат» auto-tekshiruv)
 - **Xomashyo:** НМП (qopда «LMP»). Rang: asosan **oq**; FC2/Красный→**sariq**; Bleached→**qора + bentanit**.
 - **Lot kodi:** `L131226` = partiya 131 + liniya 2 + yil 26. (FC=1, PR=2, POWDER=3)
 - **Massa-balans (formula otchotда avtomat):** `Расход = ИЧ + oil + grease + otx + musor + poteri`; `НМП = Расход − qayta ишлатилган`.
-- **Distillyat (oil/grease)** faqat POWDER/VTS/VTR/VTR-118 da (FC & Bleached=0). Mahsulot kg'дан CHIQMAYDI — tank ostatkasidан (DI-A/DI-B), «Сменалар таҳлили»да. Operator yozmasa → **keyingi smena bilan moslanadi**.
+- **Distillyat (oil/grease)** beradigan markalar: **VT-110P (POWDER), VTS-114, VTR-114, VTR-118** (FC=VT-110 & Bleached=0). Har markada miqdor **har xil**. Mahsulot kg'дан CHIQMAYDI — tank ostatkasidан (DI-A/DI-B), «Сменалар таҳлили»да. Operator yozmasa → **keyingi smena bilan moslanadi**.
 - **otx** = Производственные отходы (elak toza chiqindi, qayta ишлатилади, 3-sort). **musor** = Сортировочный (to'kilgan LMP).
 - **ИЧ = shu smena ko'rsatkichi** (kümulativ emas).
 - **FC=FCS** bir xil marka; ombor balansiga qarab tanlanadi.

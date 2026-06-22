@@ -8,6 +8,7 @@ Telegram guruh ma'lumotini **buxgalteriya otchotiga** aniq ko'chirish → oylik 
 Ega: **Kamoliddin (Бегматов К.А.)**. **Bot yasash YO'Q** — avval ma'lumotni aniq qilib, otchot to'ldiriladi.
 
 ## Tizim / data oqimi
+> Vizual sxema: `struktura.png` (repo ildizida).
 ```
 Telegram guruh «VEKTAN Production L1–L6 | Фото + кг» (forum, har tema=liniya)
  + balans formalari (rasm)
@@ -39,6 +40,18 @@ Dashboard (liniya yakuni + «Назорат» auto-tekshiruv)
 - **ИЧ = shu smena ko'rsatkichi** (kümulativ emas).
 - **FC=FCS** bir xil marka; ombor balansiga qarab tanlanadi.
 - Samara (НМП/1kg): FC 1.00 · POWDER 1.11 · VTR-114 1.25 · VTS 1.29 · VTR-118 1.52 · Bleached 1.63.
+
+## Простой — ishlab chiqarish to'xtash sabablari
+Smenada ишлаб чиqarиш **bo'lmaganда**, otchotга/izohга **sabab** yoziladi:
+- **Svet yo'q** (elektr uzilgan)
+- **Gaz yo'q**
+- **Сырьё (xomashyo) yo'q**
+- **Ремонт** (ta'mirlash)
+- **Boshqa ish** (uborka, qoplarni topshirish, sovitish va h.k.)
+- Boshqa sabab (qo'lда yoziladi)
+
+> DRAFT'дagi misol: «18--18 Den-4: Ишлаб чиqarиш yo'q (Dewatering sovitish)»,
+> «19--19 Den-5: Ишлаб чиqarиш yo'q (uborka)».
 
 ## Fayllar / manbalar
 - Buxgalteriya otchoti (lokal Mac): `~/Downloads/2026_Июнь_Производственный_отчет_для_бухгалтерии_7.xlsx`

@@ -41,6 +41,17 @@ Dashboard (liniya yakuni + «Назорат» auto-tekshiruv)
 - **FC=FCS** bir xil marka; ombor balansiga qarab tanlanadi.
 - Samara (НМП/1kg): FC 1.00 · POWDER 1.11 · VTR-114 1.25 · VTS 1.29 · VTR-118 1.52 · Bleached 1.63.
 
+## Smena ish tsikli (boshidan oxirigacha)
+> Vizual: `struktura.png`.
+1. **Smena boshlanadi** («16--16» kunduz / «16--17» tun) — nachalnik qabul qiladi,
+   **boshlang'ich uroven (ko'z bilan)** va ostatkilarni yozadi.
+2. **Xomashyo tayyorlash** — НМП/LMP skladdan (zayavka) → tanklarga (M/HV/R).
+3. **Ишлаб чиqarиш** (L1–L6). To'xtasa → **sabab** (svet/gaz/сырьё yo'q, ремонт, boshqa ish).
+4. **Natija** — mahsulot (kg, lot) · distillyat (DI-A/DI-B → oil/grease) · chiqindi (otx/musor).
+5. **Smena oxiri** — yakuniy uroven (ko'z bilan), mahsulot skladga topshirish, sotuv/otgruzka.
+6. **Uzatish/hisobot** — Telegram (foto+kg) → buxgalteriya otchot (massa-balans) → Назорат.
+→ keyingi smenaga uzatiladi (tsikl takrorlanadi).
+
 ## Простой — ishlab chiqarish to'xtash sabablari
 Smenada ишлаб чиqarиш **bo'lmaganда**, otchotга/izohга **sabab** yoziladi:
 - **Svet yo'q** (elektr uzilgan)

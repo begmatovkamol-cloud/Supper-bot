@@ -29,8 +29,35 @@ Tank bo'shaганда   → aniq jami = moslab taqsimlanadi (smenalar bo'yicha)
 > ⏳ Tank nomlari, o'lchov birligi (kg / % / belgi) va boshlang'ich urovenlar
 > egasidan kelgach to'ldiriladi.
 
+## Tanklar ro'yxati (registr)
+
+> Hajm — **куб (m³)**. «Ichida nima» va uroven birligi egasi har biri bo'yicha
+> aniqlab bergach to'ldiriladi.
+
+| Guruh | Tank | Hajm (m³) | Ichida (nima) |
+|---|---|---|---|
+| **M** (yuklash/мешалка?) | M-100 | 10 | ? |
+| | M-200 | 10 | ? |
+| **HV** | HV-100 | 4 | ? |
+| | HV-200 | 4 | ? |
+| **R** (reaktor) | R-1 | 5.5 | ? |
+| | R-2 | 5.5 | ? |
+| | R-3 | 5 | ? |
+| | R-4 | 5 | ? |
+| | R-5 | 15 | ? |
+| **DI** (distillyat) | DI-A (katta) | 25 | oil/grease? |
+| | DI-B (katta) | 25 | oil/grease? |
+| | DI-A (o'rta) | 8.2 | oil/grease? |
+| | DI-B (o'rta) | 8.2 | oil/grease? |
+| | DI-A (kichik) | 3.5 | oil/grease? |
+| | DI-B (kichik) | 3.5 | oil/grease? |
+
+> ⚠️ DI-A va DI-B nomlari **3 xil hajmда takrorlanadi** (25 / 8.2 / 3.5 m³) —
+> ularni ajratish uchun hajmni ham yozib boramiz.
+
 ## Aniqlanishi kerak (egasidan)
 
-1. **Tank nomlari/soni** (masalan: DI-A, DI-B, № 1/2/3...).
+1. Har tankда **nima bor:** oil, grease, xomashyo (LMP), suyuq mum, reaktor mahsuloti?
+   (Ayniqsa: qaysi DI tank **oil**, qaysi biri **grease**?)
 2. **Uroven nimaда yoziladi:** kg, foiz (%), yoki tankdagi belgi (sm)?
-3. Har tankда **nima bor:** oil, grease, xomashyo (LMP), yoki suyuq mum?
+3. Boshlang'ich (hozirgi) urovenlar.

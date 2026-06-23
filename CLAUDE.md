@@ -28,7 +28,7 @@ egasi (Kamoliddin) telefon yoki kompyuterda Claude Code orqali ishni
 | `YOMKOSTLAR.md` | Tanklar (ёмкости) kuzatuvi — uroven ko'z bilan (smena nachalnigi yozadi); distillyat tank ostatkasi farqidan hisoblanadi. |
 | `smena_bot/STRUKTURA.md` | **Smena otchot bot** ma'lumot modeli (wizard maydonlari) — dizayn bosqichi, kod yo'q. |
 | `smena_bot/HANDOFF.md` | Bot loyihasi handoff (wizard oqimi, ochiq savollar, texnologiya). |
-| `struktura.png` · `bot_mockup.png` | Smena ish tsikli sxemasi va bot namuna ko'rinishi (vizual). |
+| `struktura.png` · `bot_mockup.png` · `bot_flow.png` | Smena ish tsikli sxemasi, bot namuna ko'rinishi, bot 10-bosqichli ishlash ketma-ketligi (vizual). |
 
 Haqiqiy ish fayllari (Excel/Sheets) **bu repoda emas** — egasining Mac'ida
 (`~/Downloads/...`) va Google Drive'da (`vektan-otchot` papka + Google
